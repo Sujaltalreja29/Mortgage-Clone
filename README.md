@@ -4,7 +4,7 @@ This project is a simplified recreation of the Better Mortgage website, develope
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://your-deployed-link-here.vercel.app)
+[View Live Demo](https://mortgage-clone.vercel.app)
 
 ## 🛠️ Technologies Used
 
@@ -53,8 +53,8 @@ This project is a simplified recreation of the Better Mortgage website, develope
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/better-mortgage-clone.git
-cd better-mortgage-clone
+git clone https://github.com/Sujaltalreja29/Mortgage-Clone.git
+cd mortgage-clone
 ```
 
 2. Install dependencies
